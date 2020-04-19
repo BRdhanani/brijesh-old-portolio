@@ -2442,6 +2442,19 @@ h3 {
 .form-control:focus {
   color: #ffffff;
 }
+
+.form-control {
+  color: #ffffff;
+}
+
+.col-lg-4 .contact-form {
+  margin-top: 100px;
+}
+
+.alert-field {
+  color: #ffffff;
+}
+
 @media (max-width: 767px) {
   /* line 6, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
   .footer .footer_top {
