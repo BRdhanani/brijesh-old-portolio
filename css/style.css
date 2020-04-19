@@ -2447,11 +2447,11 @@ h3 {
   color: #ffffff;
 }
 
-.col-lg-4 .contact-form {
+.col-lg-4.contact-form {
   margin-top: 100px;
 }
 
-.alert-field {
+#alert-field {
   color: #ffffff;
 }
 
